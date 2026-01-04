@@ -6,7 +6,7 @@ Website chatbot sederhana untuk toko roti yang terintegrasi dengan n8n sebagai b
 - Responsive design
 - Terintegrasi dengan n8n webhook
 # bahasa pemrograman
-HTML
+- HTML
 - CSS
 - JavaScript
 
